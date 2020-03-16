@@ -1,0 +1,92 @@
+.body{
+  font-family: 'Barlow Condensed', sans-serif;
+  text-align: center;
+}
+
+.top-para{
+  text-align-last: center;
+  line-height: 2
+}
+.whole-container{
+  width: 1000px;
+  margin: 250px;
+  align-self: center;
+  background-color: #F5F5F5;
+  text-align: center;
+  align-items: center;
+}
+.first-container{
+  background-color: white;
+  width: 25%;
+  position: relative;
+  top: 200px;
+  left: 50px;
+  margin-left: 50px;
+
+
+
+
+
+}
+.second-container{
+width: 25%;
+background-color: white;
+  position: relative;
+  bottom: 100px;
+  left: 400px;
+
+}
+
+.third-container{
+background-color: white;
+width: 25%;
+position:relative;
+left:700px;
+bottom: 180px;
+margin-right: 20px;
+
+}
+.fourth-container{
+background-color: white;
+width: 25%;
+position: relative;
+left: 400px;
+bottom: 280px;
+
+
+}
+.karma-image{
+  position: relative;
+  right: auto;
+  left: 70px;
+
+}
+.karma-rule{
+  border-top: 2px solid orange;
+
+}
+.builder-image{
+  position: relative;
+  right: auto;
+  left: 70px;
+}
+.builder-rule{
+  border-top: 2px solid red;
+}
+.calculator-image{  position: relative;
+  right: auto;
+  left: 70px;
+
+
+}
+.calculator-rule{
+  border-top: 2px solid blue;
+}
+.supervisor-image{
+  position: relative;
+  right: auto;
+  left: 70px;
+}
+.supervisor-rule{
+  border-top: 2px solid green;
+}
